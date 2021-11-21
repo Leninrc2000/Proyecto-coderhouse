@@ -1,0 +1,14 @@
+@use '../base/variables' as v;
+@use 'base/mixins' as m;
+
+.text-center {
+    text-align: center;
+}
+
+.bg-primario {
+    background-color: v.$primario ;
+}
+
+.padding-bottom-0 {
+    padding-bottom: 0;
+}
